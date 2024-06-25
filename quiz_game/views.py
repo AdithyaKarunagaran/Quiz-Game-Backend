@@ -1,7 +1,6 @@
 import json
 from datetime import datetime, timedelta
 
-import pytz
 from django.http import JsonResponse
 from django.utils.timezone import now, make_aware
 from django.views.decorators.csrf import csrf_exempt

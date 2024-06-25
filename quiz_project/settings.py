@@ -117,11 +117,11 @@ WSGI_APPLICATION = 'quiz_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'Adithya23karunag$Quiz-game',   # Database name
-        'USER': 'Adithya23karunag',            # Database username
-        'PASSWORD': 'Aadhi5416',               # Database password
-        'HOST': 'Adithya23karunagaran.mysql.pythonanywhere-services.com',  # Database host address
-        'PORT': '3306',                        # MySQL default port
+        'NAME': 'Adithya23karunag$Quiz-game',
+        'USER': 'Adithya23karunag',
+        'PASSWORD': 'Aadhi5416',
+        'HOST': 'Adithya23karunagaran.mysql.pythonanywhere-services.com',
+        'PORT': '3306',
     }
 }
 
